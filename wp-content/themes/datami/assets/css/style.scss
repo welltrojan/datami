@@ -1692,3 +1692,21 @@ footer {
         }
     }
 }
+
+.page-template-contato {
+    .contato-form {
+        display: flex;
+        align-items: center;
+        min-height: 100vh;
+        @media(min-width: 992px) {
+            background-image: url('images/contato-bg.jpg');
+            background-repeat: no-repeat;
+            background-position: center left;
+            background-size: cover;
+        }
+        .contato-imagem,
+        .logo {
+            display: none !important;
+        }
+    }
+}

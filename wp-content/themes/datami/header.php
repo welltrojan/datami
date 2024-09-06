@@ -22,7 +22,7 @@
     <script src="<?php bloginfo('template_directory'); ?>/assets/js/custom.js"></script>
 
 </head>
-<body>
+<body <?php body_class(); ?>>
 
 <?php if( ! wp_is_mobile()): ?>
     <header id="header-desktop">
