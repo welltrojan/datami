@@ -1710,3 +1710,36 @@ footer {
         }
     }
 }
+
+.page-default {
+    padding-top: 150px;
+    @media(min-width: 992px) {
+        padding-top: 200px;
+    }
+    h1 {
+        display: block;
+        color: #33F9AB;
+        font-weight: 700;
+        font-size: 37px;
+        line-height: 47px;
+        margin-bottom: 50px;
+        @media(min-width: 992px) {
+            font-size: 56px;
+            line-height: 64px;
+        }   
+    }
+    h2,h3,h4,h5 {
+        font-weight: 700;
+    }
+    p {
+        display: block;
+        font-weight: 400;
+        color: #78808B;
+        font-size: 14px;
+        line-height: 21px;
+        @media(min-width: 992px) {
+            font-size: 17px;
+            line-height: 25px;
+        }
+    }
+}
