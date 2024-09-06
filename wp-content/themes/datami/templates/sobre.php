@@ -15,6 +15,7 @@ $url_botao_video = get_field('url_botao_video');
 <div class="template-sobre">
     <div class="especialista">
         <div class="container">
+            <h1 class="d-none"><?php the_title(); ?></h1>
             <div class="row align-items-center">
                 <div class="col-lg-4">
                     <div class="especialista-conteudo">
