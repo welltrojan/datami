@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_176" data-name="Retângulo 176" width="30" height="30" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_206" data-name="Grupo 206" transform="translate(0 0)" clip-path="url(#clip-path)">
+    <path id="Caminho_418" data-name="Caminho 418" d="M1.693,0A1.544,1.544,0,0,0,.5.439,1.549,1.549,0,0,0,0,1.606V3.744a1.6,1.6,0,0,0,1.508,1.6A24.691,24.691,0,0,1,24.651,28.49,1.606,1.606,0,0,0,26.259,30h2.134A1.606,1.606,0,0,0,30,28.3,30.047,30.047,0,0,0,1.693,0" transform="translate(0 0.003)" fill="#fff" fill-rule="evenodd"/>
+    <path id="Caminho_419" data-name="Caminho 419" d="M1.74,1.991a1.54,1.54,0,0,0-1.219.417A1.547,1.547,0,0,0,0,3.589V5.732a1.606,1.606,0,0,0,1.456,1.6A15.317,15.317,0,0,1,15.249,21.118a1.594,1.594,0,0,0,1.593,1.451h2.143a1.536,1.536,0,0,0,1.181-.517,1.56,1.56,0,0,0,.422-1.219A20.668,20.668,0,0,0,1.74,1.991" transform="translate(0 7.427)" fill="#fff" fill-rule="evenodd"/>
+    <path id="Caminho_420" data-name="Caminho 420" d="M4.4,4.472a4.4,4.4,0,1,0,4.4,4.4,4.407,4.407,0,0,0-4.4-4.4" transform="translate(0 16.733)" fill="#fff" fill-rule="evenodd"/>
+  </g>
+</svg>
